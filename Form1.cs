@@ -7,7 +7,7 @@ namespace WinFormsApp1
             InitializeComponent();
         }
 
-        private void ƒeƒXƒgToolStripMenuItem_Click(object sender, EventArgs e)
+        private void ãƒ†ã‚¹ãƒˆToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
             {
