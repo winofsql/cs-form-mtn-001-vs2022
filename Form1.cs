@@ -1,4 +1,4 @@
-namespace WinFormsApp1
+namespace cs_form_mtn_001_vs2022
 {
     public partial class Form1 : Form
     {
